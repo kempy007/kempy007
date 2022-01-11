@@ -1,4 +1,4 @@
-### Hey I'm Martyn aka Kempy 👋, Aspiring Kubernetes Security Engineer & Developer, Currently a Platform Engineer & Architect with a focus on security.
+### Hey I'm Martyn aka Kempy 👋, Aspiring Kubernetes Security Engineer, blockchain runtime engineer & Developer, Currently a Platform Engineer & Architect with a focus on DevSecOps.
 
 - 🌱 I’m currently learning CKS and layer 8 (leadership) and blockchain
 - 💬 Ask me about Mentoring, I'm willing to share my experiences over the last two decades, particulary if it helps level up the playing field on diversity.
