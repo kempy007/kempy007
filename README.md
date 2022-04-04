@@ -1,5 +1,5 @@
 ### Hey I'm Martyn aka Kempy 👋, Aspiring Kubernetes Security Engineer, blockchain runtime engineer & Developer, Currently a Site Reliability Engineer
-- 🌱 I’m currently learning CKS and and blockchain (substrate)
+- 🌱 I’m currently learning CKS and blockchain (substrate)
 - 💬 Ask me about Mentoring, I'm willing to share my experiences over the last two decades, particulary if it helps level up the playing field on diversity.
 - ⚡ Fun fact: I do delve into the world of Physibles, have built 3d printers, electronics, fixed cars, built pulse jets, failed at gas turbines!
 - Preferred communication style: I am strongly Visual Kinetic, I prefer written or graphical comms, I don't fare well with too much auditory if I'm to capture any actions. You are best placed to get my attention if you call or IM me, I rarely check email. I am direct and prefer direct comms.
