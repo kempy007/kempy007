@@ -5,7 +5,7 @@
 - Preferred communication style: I am strongly Visual Kinetic, I prefer written or graphical comms, I don't fare well with too much auditory if I'm to capture any actions. You are best placed to get my attention if you call or IM me, I rarely check email. I am direct and prefer direct comms.
 - What drains me at work: Ambiguity, Politics, Repetitive information, frivolous use of language to pad out presentations and not having a decent GTD system! 
 - Things people might misunderstand about me: I quite often forget the niceties in my comms, so people can often think I'm rude, so thus it takes me 3 times the effort to get it right! My learning disabilities also means I must work 3 times harder to absorb the same material. 
-- What gives me energy at work: Chipping away at my backlog and progressing items because they are broken down well and have group consensus, taking small steps to achieve the big wins! Being recognised for my ideas and contributions to the Team. Constructive feedback I can action, but even better is positive feedback. I must intertwine a passion for learning new things so I can keep growing. If I know that my efforts are going towards building a better/fairer future then I am lifted immensely.
+- What gives me energy at work: The small wins by chipping away at my backlog, team decision making with group consensus on effort/direction, taking small steps to achieve the big wins! Being recognised for my ideas and contributions to the Team. Constructive feedback I can action, but even better is positive feedback. I must intertwine a passion for learning new things so I can keep growing. If I know that my efforts are going towards building a better/fairer future then I am lifted immensely.
 
 
 ### GitHub Stats
