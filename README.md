@@ -37,6 +37,8 @@
 - 🌱 I’m currently learning CKS and blockchain (substrate)
 - 💬 Ask me about Mentoring, I'm willing to share my experiences over the last two decades, particulary if it helps level up the playing field on diversity.
 - ⚡ ***Fun fact:*** I do delve into the world of Physibles, have built 3d printers, electronics, fixed cars, built pulse jets, failed at gas turbines!
+- p2p networking, hole punching, dht.
+- reverse engineering.
 
 
 ### GitHub Stats
